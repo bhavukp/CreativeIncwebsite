@@ -246,11 +246,25 @@ footer{
 
 footer p{
 	margin: 0;
-	padding-top: 1em;
+	padding: 1em;
 }
 
 .unordered-list{
 	list-style: none;
+}
+
+.unordered-list li{
+	display: inline;
+	padding-inline: 30px;
+}
+
+.unordered-list li a{
+	text-decoration: none;
+	color: white;
+}
+
+.unordered-list li a:hover {
+    color: #DDD;
 }
 
 .col-1{

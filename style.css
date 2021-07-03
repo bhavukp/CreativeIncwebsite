@@ -242,6 +242,8 @@ position: relative;
 footer{
 	background: #232323;
 	color: #fff;
+	display: flex;
+   	align-items: center;
 }
 
 footer p{

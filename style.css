@@ -287,4 +287,8 @@ footer p{
 		padding: 0;
 		font-size: 0.7em;
 	}
+
+	.unordered-list li {
+		padding-inline: 25px;
+	}
 }
